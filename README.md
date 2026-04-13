@@ -29,8 +29,9 @@ To run or build this beta project, you will need the following installed on your
 
 ```bash
 # 1. Clone or download the repository
-git clone https://github.com/OpenZeg/styleme-beta.git
-cd styleme-beta
+git clone https://github.com/OpenZeg/styleai-old
+
+cd styleai-old
 
 # 2. Install dependencies
 npm install
