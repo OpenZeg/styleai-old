@@ -1,6 +1,6 @@
 # StyleAI v3.0 - AI Fashion Assistant
 
-A fully-featured, 100% local AI-powered wardrobe and fashion assistant built with Electron. No API keys required, no cloud dependencies - everything runs on your machine.
+A fully-featured, 100% local AI-powered wardrobe and fashion assistant built with Electron. No API keys required, no cloud dependencies - everything runs on your machine. Check out style.zeg.com.au/careers if you would like to join in the mission.
 
 ## What's New in v3.0
 
