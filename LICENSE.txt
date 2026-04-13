@@ -1,0 +1,51 @@
+Copyright (c) 2026 StyleAI
+All Rights Reserved.
+
+Application: StyleAI
+Website:     style.zeg.com.au
+Year:        2026
+
+--------------------------------------------------------------------------------
+PROPRIETARY SOFTWARE LICENSE — ALL RIGHTS RESERVED
+--------------------------------------------------------------------------------
+
+This software and its source code, design, assets, and associated documentation
+files (collectively, the "Software") are the exclusive intellectual property of
+StyleAI and are protected under Australian and international copyright law.
+
+RESTRICTIONS — You may NOT, without prior written permission from StyleAI:
+
+  1. Copy, reproduce, or duplicate any part of this Software.
+  2. Modify, adapt, translate, or create derivative works based on this Software.
+  3. Distribute, sublicense, sell, rent, lease, or transfer the Software or any
+     portion thereof to any third party.
+  4. Reverse engineer, decompile, disassemble, or otherwise attempt to derive
+     the source code of this Software.
+  5. Remove or alter any proprietary notices, labels, or copyright markings.
+  6. Use the Software for any commercial purpose without a valid license
+     agreement issued by StyleAI.
+
+PERMITTED USE:
+
+  This Software is provided solely for personal, non-commercial use by
+  authorized end users who have been granted explicit permission by StyleAI.
+  Any other use is strictly prohibited.
+
+NO WARRANTY:
+
+  THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+  FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL STYLEAI BE
+  LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF
+  THIS SOFTWARE.
+
+GOVERNING LAW:
+
+  This license is governed by the laws of New South Wales, Australia. Any
+  disputes arising in connection with this license shall be subject to the
+  exclusive jurisdiction of the courts of New South Wales.
+
+
+--------------------------------------------------------------------------------
+© 2026 StyleAI. All Rights Reserved. Unauthorized use is strictly prohibited.
+--------------------------------------------------------------------------------
