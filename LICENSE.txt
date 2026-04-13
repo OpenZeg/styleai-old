@@ -1,51 +1,23 @@
-Copyright (c) 2026 StyleAI
-All Rights Reserved.
+# License
 
-Application: StyleAI
-Website:     style.zeg.com.au
-Year:        2026
+**Copyright (c) 2026 ZEG (zeg.com.au)**
 
---------------------------------------------------------------------------------
-PROPRIETARY SOFTWARE LICENSE — ALL RIGHTS RESERVED
---------------------------------------------------------------------------------
+This license has been lifted. The project is now fully open source.
 
-This software and its source code, design, assets, and associated documentation
-files (collectively, the "Software") are the exclusive intellectual property of
-StyleAI and are protected under Australian and international copyright law.
+### MIT License
 
-RESTRICTIONS — You may NOT, without prior written permission from StyleAI:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-  1. Copy, reproduce, or duplicate any part of this Software.
-  2. Modify, adapt, translate, or create derivative works based on this Software.
-  3. Distribute, sublicense, sell, rent, lease, or transfer the Software or any
-     portion thereof to any third party.
-  4. Reverse engineer, decompile, disassemble, or otherwise attempt to derive
-     the source code of this Software.
-  5. Remove or alter any proprietary notices, labels, or copyright markings.
-  6. Use the Software for any commercial purpose without a valid license
-     agreement issued by StyleAI.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-PERMITTED USE:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-  This Software is provided solely for personal, non-commercial use by
-  authorized end users who have been granted explicit permission by StyleAI.
-  Any other use is strictly prohibited.
+---
 
-NO WARRANTY:
+**Original Project**  
+StyleAI Beta (formerly known as StyleAI)  
+Archived early beta version by ZEG  
+Website: https://style.zeg.com.au  
+Year: 2026
 
-  THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
-  FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL STYLEAI BE
-  LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF
-  THIS SOFTWARE.
-
-GOVERNING LAW:
-
-  This license is governed by the laws of New South Wales, Australia. Any
-  disputes arising in connection with this license shall be subject to the
-  exclusive jurisdiction of the courts of New South Wales.
-
-
---------------------------------------------------------------------------------
-© 2026 StyleAI. All Rights Reserved. Unauthorized use is strictly prohibited.
---------------------------------------------------------------------------------
+This repository contains the full scrapped beta codebase that we previously built as a complete Electron desktop application.
