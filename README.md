@@ -16,7 +16,7 @@ To run or build this beta project, you will need the following installed on your
 - **npm** (comes with Node.js)
 - **Git** (optional, for cloning the repository)
 
-**No Python or additional AI libraries are required** for this beta version — everything runs locally using JavaScript and Electron.
+**No Python or additional AI libraries are required** for this beta version — everything runs locally using JavaScript and Electron and all packages come under package.json which will be used under running npm install.
 
 ### Optional (for building installers)
 - Windows: Visual Studio Build Tools (for native modules)
